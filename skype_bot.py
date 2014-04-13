@@ -78,11 +78,18 @@ __URLS__ = {
 	'sestos':'http://en63.grepolis.com',
 	'thebes':'http://en64.grepolis.com',
 	'zacynthus':'http://en65.grepolis.com',
-	'apollonia ':'http://en66.grepolis.com',
+	'apollonia':'http://en66.grepolis.com',
 	'byllis':'http://en67.grepolis.com',
 	'cythera':'http://en68.grepolis.com',
 	'dyme':'http://en69.grepolis.com'
-
+        'eubea':'http://en70.grepolis.com'
+        'gonnos':'http://en71.grepolis.com'
+        'hermonassa':'http://en72.grepolis.com'
+        'ialysos':'http://en73.grepolis.com'
+        'katane':'http://en74.grepolis.com'
+        'lapithos':'http://en75.grepolis.com'
+        'mochlos':'http://en76.grepolis.com'
+        'nysa':'http://en77.grepolis.com'
 }
 defaultconfig = {"territorylimit": {}, "rangelimit": {}, "monitor": {}, "botadmins": ["soconius"], "last_scrape":{}, "world_scrape":{}, "feedback":{}}
 
